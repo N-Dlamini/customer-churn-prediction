@@ -1,14 +1,10 @@
-# Customer Churn Prediction — Data Cleaning, SQL, ML, and Dashboard
+# customer-churn-prediction
+This project predicts consumer churn using the IBM Telco Customer Churn dataset. It focuses heavily on real-world data cleaning, SQL analysis, feature engineering, and machine learning modeling.
 
-This project predicts customer churn using the IBM Telco Customer Churn dataset.
-
-It focuses on:
-- Real-world data cleaning
+This is a full end-to-end pipeline project built over 14 days, including:
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
 - SQL insights
-- Exploratory data analysis
-- Feature engineering
-- Predictive modeling (Logistic Regression, Random Forest, XGBoost)
-- Dashboard for business insights
-
-Project timeline: 14-day sprint.
-
+- ML model dedvelopment (Logistic Regression, Random Forest, XGBoost)
+- Power BI dashboard
+- Business insights & recommendations
