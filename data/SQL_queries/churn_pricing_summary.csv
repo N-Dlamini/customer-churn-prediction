@@ -1,0 +1,7 @@
+Contract,charge_flag,num_customers,churned,churn_rate_pct
+Month-to-month,Above Average,2300,1187,51.61
+Month-to-month,Below Average,1575,468,29.71
+One year,Above Average,785,130,16.56
+One year,Below Average,688,36,5.23
+Two year,Above Average,838,38,4.53
+Two year,Below Average,857,10,1.17
